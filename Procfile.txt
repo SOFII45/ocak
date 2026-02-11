@@ -1,0 +1,2 @@
+web: gunicorn association_project.wsgi:application
+
